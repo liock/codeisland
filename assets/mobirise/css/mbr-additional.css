@@ -499,6 +499,9 @@ h6,
 #header2-25 .mbr-section-title {
   font-size: 32px;
 }
+#slider-26 P {
+  text-align: left;
+}
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
   text-align: center;
@@ -671,4 +674,28 @@ h6,
 #ext_menu-1j .link[aria-expanded="true"],
 #ext_menu-1j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box5-1x P {
+  font-size: 30px;
+}
+#msg-box5-1x H3 {
+  font-size: 60px;
+}
+#msg-box5-1y H3 {
+  font-size: 60px;
+}
+#msg-box5-1y P {
+  font-size: 30px;
+}
+#msg-box5-22 B {
+  font-size: 30px;
+}
+#msg-box5-22 H3 {
+  font-size: 60px;
+}
+#msg-box5-20 B {
+  font-size: 30px;
+}
+#msg-box5-20 H3 {
+  font-size: 60px;
 }
