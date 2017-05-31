@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "05-13_1653",
-    "currentPage": "features1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "CodeIsland",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -670,8 +670,8 @@
     },
     "overview1.html": {
       "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "title": "CodeIsland",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -790,7 +790,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/main-2000x112521.jpg",
+                "image": "@PROJECT_PATH@/assets/images/main-2000x112528.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -805,7 +805,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/levelselect-2000x112522.jpg",
+                "image": "@PROJECT_PATH@/assets/images/levelselect-2000x112529.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -820,7 +820,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lv1-2000x112523.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lv1-2000x112530.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -835,7 +835,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lv1-1-2000x112524.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lv1-1-2000x112531.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -850,7 +850,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/18789537-1461061550583986-60157373-o-2000x112525.png",
+                "image": "@PROJECT_PATH@/assets/images/18789537-1461061550583986-60157373-o-2000x112532.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -865,7 +865,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-2000x112526.png",
+                "image": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-2000x112533.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -880,7 +880,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/18838596-1461061597250648-898062233-o-2000x112527.png",
+                "image": "@PROJECT_PATH@/assets/images/18838596-1461061597250648-898062233-o-2000x112534.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -925,8 +925,8 @@
     },
     "features1.html": {
       "settings": {
-        "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "title": "CodeIsland",
+        "meta_descr": ""
       },
       "components": [
         {
