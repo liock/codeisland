@@ -231,7 +231,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/main-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/main1-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -260,7 +260,8 @@
           "_name": "slider",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "60px"
             },
             "B": {
               "font-size": "72px",
@@ -269,7 +270,7 @@
             }
           },
           "_params": {
-            "autoplay": false,
+            "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "timeout": 5,
@@ -285,12 +286,12 @@
                 "showTitle": true,
                 "title": "",
                 "showText": true,
-                "text": "",
+                "text": "<br><br>Main menu",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/lev-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -300,12 +301,12 @@
                 "showTitle": true,
                 "title": "",
                 "showText": true,
-                "text": "<br><br><br>",
+                "text": "<br><br><br>Level selcet",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/lv1-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -316,21 +317,6 @@
                 "title": "",
                 "showText": true,
                 "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lv1-1-2000x1125.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.3",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br>遊戲視點<br><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -1072,7 +1058,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lv1-2000x11257.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lv1-2000x112516.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1087,7 +1073,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lv1-1-2000x11258.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lv1-1-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1102,7 +1088,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/18789537-1461061550583986-60157373-o-2000x11259.png",
+                "image": "@PROJECT_PATH@/assets/images/18789537-1461061550583986-60157373-o-2000x112517.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1117,7 +1103,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-2000x112510.png",
+                "image": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-2000x112518.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1132,7 +1118,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/18838596-1461061597250648-898062233-o-2000x112511.png",
+                "image": "@PROJECT_PATH@/assets/images/18838596-1461061597250648-898062233-o-2000x112519.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1338,7 +1324,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/004-1400x61712.png",
+              "src": "@PROJECT_PATH@/assets/images/004-1400x61720.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1399,7 +1385,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-1400x78713.png",
+              "src": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-1400x78721.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1460,7 +1446,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/gamification-and-game-based-learning-yes-they-are-different-1400x148414.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gamification-and-game-based-learning-yes-they-are-different-1400x148422.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1521,7 +1507,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/unity-android-1400x93315.png",
+              "src": "@PROJECT_PATH@/assets/images/unity-android-1400x93323.png",
               "link": "",
               "alt": "",
               "title": "",
