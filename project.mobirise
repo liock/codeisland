@@ -208,7 +208,7 @@
           },
           "_anchor": "header2-25",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -1058,7 +1058,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lv1-2000x112516.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lv1-2000x112532.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1088,7 +1088,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/18789537-1461061550583986-60157373-o-2000x112517.png",
+                "image": "@PROJECT_PATH@/assets/images/18789537-1461061550583986-60157373-o-2000x112533.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1103,7 +1103,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-2000x112518.png",
+                "image": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-2000x112534.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1118,7 +1118,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/18838596-1461061597250648-898062233-o-2000x112519.png",
+                "image": "@PROJECT_PATH@/assets/images/18838596-1461061597250648-898062233-o-2000x112535.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1324,7 +1324,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/004-1400x61720.png",
+              "src": "@PROJECT_PATH@/assets/images/004-1400x61736.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1385,7 +1385,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-1400x78721.png",
+              "src": "@PROJECT_PATH@/assets/images/18789618-1461111863912288-1966960237-o-1400x78737.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1446,7 +1446,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/gamification-and-game-based-learning-yes-they-are-different-1400x148422.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gamification-and-game-based-learning-yes-they-are-different-1400x148438.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1507,7 +1507,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/unity-android-1400x93323.png",
+              "src": "@PROJECT_PATH@/assets/images/unity-android-1400x93339.png",
               "link": "",
               "alt": "",
               "title": "",
